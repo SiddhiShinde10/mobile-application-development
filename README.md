@@ -1,19 +1,16 @@
-Login Page – Mobile Application Development
+# first_app
 
-This project is a simple and user-friendly Login Page developed using Flutter as part of the Mobile Application Development coursework. The application provides a clean UI that allows users to enter their email/username and password to access the system.
+A new Flutter project.
 
-The login screen includes form validation, input field handling, and basic navigation to a registration page for new users. The design focuses on simplicity, responsiveness, and proper layout structure suitable for Android devices.
+## Getting Started
 
-This project demonstrates:
+This project is a starting point for a Flutter application.
 
-Flutter UI design using widgets
+A few resources to get you started if this is your first Flutter project:
 
-Form validation and input management
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Navigation between screens
-
-Basic state management
-
-Clean and structured mobile interface design
-
-The application serves as a foundational component for building secure and scalable mobile applications.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
